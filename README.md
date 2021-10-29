@@ -4,7 +4,7 @@ Version 1.1.0 of the new Java FX based ProB2-UI is available. You can use these 
 
 [Windows installer for ProB2-UI 1.1.0](https://www3.hhu.de/stups/downloads/prob2/1.1.0/ProB2UI-1.1.0.exe)
 
-macOS notarized application ProB2-UI 1.1.0 (zipped)
+[macOS notarized application ProB2-UI 1.1.0 (zipped)](https://www3.hhu.de/stups/downloads/prob2/1.1.0/ProB2-UI-1.1.0-notarized.zip)
 
 Debian package of ProB2-UI 1.1.0
 
