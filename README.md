@@ -1,7 +1,8 @@
 # ProB2-UI
-How to install ProB in linux.
-Go to the ProB Downloads site and copy tarball link
-Open terminal $ wget CTRL+V. e.g wget http://www3.hhu.de/stups/downloads/prob/tcltk/releases/1.11.0/ProB.linux64.tar.gz)
+ProB2-UI using Java FX
+Version 1.1.0 of the new Java FX based ProB2-UI is available. You can use these stand-alone versions which come bundled with the right Java runtime environment:
 
-Install Tcl/Tk 8.5.
-Go to ProB2-UI using Java FX(donwload Debian package of ProB2-UI 1.1.0)
+Windows installer for ProB2-UI 1.1.0
+macOS notarized application ProB2-UI 1.1.0 (zipped)
+Debian package of ProB2-UI 1.1.0
+Note that: on macOS you may have to initially launch ProB2-UI twice.
